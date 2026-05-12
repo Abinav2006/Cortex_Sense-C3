@@ -380,17 +380,13 @@ The objective of CortexSense C3 is to create a flexible and expandable embedded 
 
 ## Front View
 
-```markdown
 ![Front View](Images/front_view.jpg)
-```
+
+---
 
 ## Back View
 
-```markdown
 ![Back View](Images/back_view.jpg)
-```
-
----
 
 # License
 
