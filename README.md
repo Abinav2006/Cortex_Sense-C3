@@ -331,29 +331,6 @@ The objective of CortexSense C3 is to create a flexible and expandable embedded 
 
 ---
 
-# Repository Structure
-
-```text
-.
-├── Hardware/
-│   ├── Schematic/
-│   ├── PCB/
-│   └── Manufacturing_Files/
-│
-├── Firmware/
-│   ├── Arduino/
-│   ├── ESP-IDF/
-│   └── Libraries/
-│
-├── Documentation/
-│
-├── Images/
-│
-└── README.md
-```
-
----
-
 # Getting Started
 
 ## Requirements
@@ -404,7 +381,6 @@ Special thanks to:
 
 - Espressif Systems
 - OpenAI
-- Bosch Sensortec
 - Open-source embedded community
 
 ---
